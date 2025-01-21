@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **C++, C#**
 
-- 👨‍💻 All of my projects are available at [https://psychoo.site](https://psychoo.site)
+- 👨‍💻 All of my projects are available at [https://psychoo.site](https://pzycho.site)
 
-- 📝 I regularly write articles on [https://psychoo.site/discord](https://psychoo.site/discord)
-
-- 📫 How to reach me **contact@psychoo.site**
+- 📫 How to reach me **contact@pzycho.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
