@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, C#**
 
-- 👨‍💻 All of my projects are available at [https://psychoo.site](https://pzycho.site)
+- 👨‍💻 All of my projects are available at [https://pzycho.site](https://pzycho.site)
 
 - 📫 How to reach me **contact@pzycho.site**
 
