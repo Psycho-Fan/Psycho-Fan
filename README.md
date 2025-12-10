@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-fan&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-fan" /> </p>
 
-- 🌱 I’m currently learning **C++, C#**
+- 🌱 I’m currently learning **Html, css, js, python**
 
-- 👨‍💻 All of my projects are available at [https://pzycho.site](https://pzycho.site)
+- 👨‍💻 All of my projects are available at [https://pssyho.site](https://pssyho.site)
 
-- 📫 How to reach me **litecode@pzycho.site**
+- 📫 How to reach me **litecode@pssyho.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/psychofan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psychofan__" height="30" width="40" /></a>
-<a href="https://discord.gg/mF4dZZRp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mF4dZZRp" height="30" width="40" /></a>
+<a href="discordapp.com/users/1187151195001851924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mF4dZZRp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
