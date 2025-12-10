@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Html, css, js, python**
 
-- 👨‍💻 All of my projects are available at [https://pssyho.site](https://pssyho.site)
+- 👨‍💻 All of my projects are available at [https://pssyho.site/](https://pssyho.site/)
 
 - 📫 How to reach me **litecode@pssyho.site**
 
