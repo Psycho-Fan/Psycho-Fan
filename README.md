@@ -1,23 +1,123 @@
-<h1 align="center">Hi 👋, I'm Psycho_Fan</h1>
-<h3 align="center">A passionate frontend and backend from Poland</h3>
+<div align="center">
+  
+# 👋 Welcome to My Digital Space
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psycho-fan&label=Profile%20views&color=0e75b6&style=flat" alt="psycho-fan" /> </p>
+### I'm Psycho_Fan
+#### 🚀 Full-Stack Developer | 🇵🇱 Based in Poland
 
-- 🌱 I’m currently learning **Html, css, js, python**
+<img src="https://komarev.com/ghpvc/?username=psycho-fan&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
 
-- 👨‍💻 All of my projects are available at [https://pssyho.site/](https://pssyho.site/)
+---
 
-- 📫 How to reach me **litecode@pssyho.site**
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/psychofan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psychofan__" height="30" width="40" /></a>
-<a href="discordapp.com/users/1187151195001851924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mF4dZZRp" height="30" width="40" /></a>
-</p>
+```typescript
+const psycho_fan = {
+    location: "Poland 🇵🇱",
+    role: "Full-Stack Developer",
+    currentFocus: ["Frontend Magic", "Backend Engineering"],
+    learning: ["HTML5", "CSS3", "JavaScript", "Python"],
+    portfolio: "https://pssyho.site/",
+    contact: "litecode@pssyho.site"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-[![Discord Activity](https://lanyard.cnrad.dev/api/1187151195001851924)](https://discord.com/users/1187151195001851924)
+## 🛠️ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psycho-fan&show_icons=true&locale=en" alt="psycho-fan" /></p>
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Design
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+---
+
+## 🔥 Current Focus
+
+<div align="center">
+
+```diff
++ Building robust full-stack applications
++ Exploring modern web technologies  
++ Creating beautiful, user-friendly interfaces
++ Continuously learning and improving
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pssyho.site/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:litecode@pssyho.site)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/psychofan__)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187151195001851924)
+
+</div>
+
+---
+
+## 💬 Discord Activity
+
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1187151195001851924?theme=dark&bg=0d1117&borderRadius=10px&animated=true)](https://discord.com/users/1187151195001851924)
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+| 💼 Portfolio | 📧 Email | 🐦 Twitter | 💬 Discord |
+|:---:|:---:|:---:|:---:|
+| [pssyho.site](https://pssyho.site/) | litecode@pssyho.site | [@psychofan__](https://twitter.com/psychofan__) | Psycho_Fan |
+
+</div>
+
+---
+
+## 🎨 What I'm Working On
+
+<div align="center">
+
+| Frontend | Backend | DevOps |
+|:---:|:---:|:---:|
+| 🎨 Responsive UI/UX | ⚙️ RESTful APIs | ☁️ Cloud Deployment |
+| ⚡ Modern JavaScript | 🗄️ Database Design | 🐧 Linux Administration |
+| 🎭 CSS Animations | 🔐 Authentication | 🔧 Server Configuration |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is poetry written in logic"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
+
+**Thanks for visiting! Feel free to reach out if you want to collaborate on something awesome! 🚀**
+
+</div>
